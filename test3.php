@@ -2,15 +2,15 @@
 $marks=90;
 
 if($marks>=90){
-    echo("excellent");
+    echo "excellent";
 }
 elseif($marks>=75){
-    echo("good");
+    echo "good";
 }
 elseif($marks>=50){
-    echo("you passed");
+    echo "you passed";
 }
 else{
-    echo("you failed");
+    echo "you failed";
 }
 ?>

@@ -2,7 +2,7 @@
 $age=24;
 
 if($age>20){
-  echo("You can vote");}
+  echo "You can vote";}
 else{
-  echo("You cant vote");}
+  echo "You cant vote";}
 ?>
